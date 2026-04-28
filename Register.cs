@@ -5,7 +5,7 @@ namespace PersonalRegister
 {
     internal class Register()
     {
-        // Uses the input from UsingPersonalsProps to add a new person to the register
+        // Uses the input from createNewPerson to add a new person to the register
         private static string addPerson(string fname, string lname, int pment)
         {
             Personnels personals = new()
