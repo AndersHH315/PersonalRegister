@@ -22,5 +22,4 @@ do
             break;
     }
 
-
 } while (input != "3");

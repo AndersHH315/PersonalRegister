@@ -39,7 +39,7 @@ namespace PersonalRegister
         {
             foreach (var item in Personnels.RegisterList)
             {
-                Console.WriteLine(item.FirstName + " " + item.LastName + " " + item.Payment + "kr i lön");
+                Console.WriteLine("Name: " + item.FirstName + " " + item.LastName + " " + "Current Salary: " + item.Payment + "kr");
             }
             return "Those are currently on the list!";
         }
