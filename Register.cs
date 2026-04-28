@@ -41,7 +41,10 @@ namespace PersonalRegister
             {
                 Console.WriteLine("Name: " + item.FirstName + " " + item.LastName + " " + "Current Salary: " + item.Payment + "kr");
             }
-            return "Those are currently on the list!";
+            if(Personnels.RegisterList.Count != 0)
+                return "Those are currently on the list!";
+            else
+                return "Theres none on the list!";
         }
 
     }
