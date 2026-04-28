@@ -1,0 +1,15 @@
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\bin\Debug\net10.0\PersonalRegister.exe
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\bin\Debug\net10.0\PersonalRegister.deps.json
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\bin\Debug\net10.0\PersonalRegister.runtimeconfig.json
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\bin\Debug\net10.0\PersonalRegister.dll
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\bin\Debug\net10.0\PersonalRegister.pdb
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\PersonalRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\PersonalRegister.AssemblyInfoInputs.cache
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\PersonalRegister.AssemblyInfo.cs
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\PersonalRegister.csproj.CoreCompileInputs.cache
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\PersonalRegister.sourcelink.json
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\PersonalRegister.dll
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\refint\PersonalRegister.dll
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\PersonalRegister.pdb
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\PersonalRegister.genruntimeconfig.cache
+C:\Users\Ander\Github\C#-Projects\PersonalRegister\obj\Debug\net10.0\ref\PersonalRegister.dll
