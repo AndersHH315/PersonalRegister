@@ -11,10 +11,5 @@ namespace PersonalRegister
 
         public static List<Personnels> RegisterList = [];
 
-        public override string ToString()
-        {
-            return FirstName + " " + LastName + " " + Payment;
-        }
-
     }
 }

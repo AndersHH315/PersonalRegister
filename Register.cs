@@ -21,6 +21,7 @@ namespace PersonalRegister
         //Takes inputs for the new person
         public static string createNewPerson()
         {
+            int pment;
             Console.WriteLine("Type a firstname: ");
             string? fname = Console.ReadLine();
 
@@ -28,10 +29,16 @@ namespace PersonalRegister
             string? lname = Console.ReadLine();
 
             Console.WriteLine("How much do they earn each month?: ");
+            string checkNumber = Console.ReadLine();
 
-            int pment = int.Parse(Console.ReadLine());
-            
-            return addPerson(fname, lname, pment);
+            if(int.TryParse(checkNumber, out int result))
+            {
+                pment = result;     
+                return addPerson(fname, lname, pment);
+            }
+            else
+                pment = 100;
+                return addPerson(fname, lname, pment);
         }
 
         //Shows all personnels in the register
